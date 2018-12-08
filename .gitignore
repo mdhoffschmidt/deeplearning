@@ -1,2 +1,5 @@
 # Discard dataset
 dataset/
+
+# Discard notebook check pints
+*.ipbn_checkpoints
